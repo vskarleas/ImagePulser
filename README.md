@@ -1,5 +1,7 @@
 # Projet en langage C - EPU-R6-IPC
 
+Video : [https://youtu.be/HgWcbY_vNWo](https://youtu.be/HgWcbY_vNWo)
+
 ## Authors
 
 * Evinia ANASTASOPOULOU
