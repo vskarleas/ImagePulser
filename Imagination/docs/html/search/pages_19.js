@@ -1,4 +1,19 @@
 var searchData=
 [
-  ['yanis_20sadoun_20rapport_0',['Yanis Sadoun Rapport',['../md__2Users_2vasilisskarleas_2Library_2Mobile_01Documents_2com_0iapple_0iCloudDocs_2Documents_2Undb673561d548a2f92acfa09541f12fbe.html',1,'']]]
+  ['ui_0',['2. Gestion de l&apos;Asynchronisme dans les Interactions UI',['../index.html#autotoc_md18',1,'']]],
+  ['un_20contour_1',['un contour',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md50',1,'Nos Solutions pour le stockage d&apos;un contour'],['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md49',1,'Solutions pour le stockage d&apos;un contour']]],
+  ['un_20contour_20c_20est_20quoi_2',['3.1 - Un contour c&apos;est quoi ?',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md42',1,'']]],
+  ['un_20contour_20d_20une_20image_3',['Tâche 3 : Extraction d&apos;un contour d&apos;une image',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html',1,'']]],
+  ['un_20contour_20polygonal_4',['Approche pour un Contour Polygonal',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache6.html#autotoc_md65',1,'']]],
+  ['un_20point_20et_20une_20courbe_20de_20bézier_20de_20degré_202_5',['Méthode de Calcul de la distance entre un point et une courbe de Bézier de Degré 2',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md75',1,'']]],
+  ['un_20projet_20innovant_20de_20traitement_20d_20images_6',['Exploration et Application d&apos;OpenCV dans un Projet Innovant de Traitement d&apos;Images',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2evanthia-virginia-anastasopoulou-rapport.html#autotoc_md1',1,'']]],
+  ['un_20segment_20par_20une_20courbe_20de_20bézier_20de_20degré_202_7',['Approximation d&apos;un segment par une courbe de Bézier de Degré 2',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md74',1,'']]],
+  ['une_20courbe_20de_20bézier_20de_20degré_202_8',['une courbe de Bézier de Degré 2',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md74',1,'Approximation d&apos;un segment par une courbe de Bézier de Degré 2'],['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md75',1,'Méthode de Calcul de la distance entre un point et une courbe de Bézier de Degré 2']]],
+  ['une_20distance_20seuil_9',['Principe de la Simplification par une Distance-Seuil',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache6.html#autotoc_md64',1,'']]],
+  ['une_20image_10',['Tâche 3 : Extraction d&apos;un contour d&apos;une image',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html',1,'']]],
+  ['une_20liste_20en_20tableau_11',['Pourquoi Convertir une Liste en Tableau?',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md51',1,'']]],
+  ['une_20webcam_12',['Simplification des images prises avec une webcam',['../index.html',1,'']]],
+  ['utilisateur_20installation_13',['iManuel d&apos;Utilisateur - Installation',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2user__manual.html',1,'']]],
+  ['utilisation_20des_20courbes_20de_20bézier_20dans_20le_20projet_14',['Utilisation des Courbes de Bézier dans le Projet',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache7.html#autotoc_md72',1,'']]],
+  ['utilisation_20des_20file_5finputs_20eps_20dans_20le_20projet_15',['Utilisation des file_inputs EPS dans le Projet',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache4.html#autotoc_md56',1,'']]]
 ];

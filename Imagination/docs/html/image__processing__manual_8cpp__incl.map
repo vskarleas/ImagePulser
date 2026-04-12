@@ -1,21 +1,21 @@
-<map id="/Users/vasilisskarleas/Library/Mobile Documents/com~apple~CloudDocs/Documents/University Sorbonne/3rd year/S6/ImagePulser/Imagination/image_processing_manual.cpp" name="/Users/vasilisskarleas/Library/Mobile Documents/com~apple~CloudDocs/Documents/University Sorbonne/3rd year/S6/ImagePulser/Imagination/image_processing_manual.cpp">
-<area shape="rect" id="Node000001" title="Utilisation de l&#39;image_processing en mode manuel." alt="" coords="278,5,511,106"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,154,66,180"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,95,81,154,80,149,276,90"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="90,154,154,180"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,106,167,150,165,145,276,101"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="178,154,242,180"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,109,245,148,242,143,309,104"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="266,154,338,180"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="355,108,324,144,320,140,350,104"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="362,154,427,180"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="397,106,397,138,392,138,392,106"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="451,154,591,180"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="454,104,497,142,494,146,450,109"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="615,154,754,180"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="512,98,639,146,637,151,510,103"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="779,154,964,180"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="512,81,804,147,803,153,510,86"/>
-<area shape="rect" id="Node000010" title=" " alt="" coords="988,154,1128,180"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="512,74,973,149,972,154,511,79"/>
+<map id="/Users/vasilisskarleas/Developer/ROB3&#45;S6&#45;ImagePulser_project/Imagination/image_processing_manual.cpp" name="/Users/vasilisskarleas/Developer/ROB3&#45;S6&#45;ImagePulser_project/Imagination/image_processing_manual.cpp">
+<area shape="rect" id="Node000001" title="Utilisation de l&#39;image_processing en mode manuel." alt="" coords="284,5,505,76"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,124,66,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,73,81,126,80,121,282,68"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,124,154,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,77,170,122,168,117,291,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="178,124,242,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,76,248,119,246,114,324,77"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="266,124,338,150"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="363,75,326,115,323,110,358,77"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="362,124,427,150"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="396,74,396,110,392,107,392,78"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="451,124,591,150"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="442,74,495,115,490,114,440,79"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="615,124,754,150"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="502,74,636,119,630,119,501,79"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="779,124,964,150"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="506,61,797,120,792,121,505,66"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="988,124,1128,150"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="506,55,975,122,971,125,505,60"/>
 </map>

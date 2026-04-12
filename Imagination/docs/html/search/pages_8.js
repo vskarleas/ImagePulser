@@ -1,6 +1,26 @@
 var searchData=
 [
-  ['anastasopoulou_20rapport_0',['Evanthia Virginia Anastasopoulou Rapport',['../md__2Users_2vasilisskarleas_2Library_2Mobile_01Documents_2com_0iapple_0iCloudDocs_2Documents_2Un25302b3964601d53352d616108b0ddfd.html',1,'']]],
-  ['au_20format_20postscript_20encapsulé_20eps_1',['Tâche 4 : Sortie au Format PostScript Encapsulé (EPS)',['../md__2Users_2vasilisskarleas_2Library_2Mobile_01Documents_2com_0iapple_0iCloudDocs_2Documents_2Un16b50974e3dd63f5dc2a4dafa6fcd87b.html',1,'']]],
-  ['avec_20une_20webcam_2',['Simplification des images prises avec une webcam',['../index.html',1,'']]]
+  ['accepter_20au_20moins_204_20points_20pour_20la_20declaration_20des_20courbes_0',['5. PostScript pourrait accepter au moins 4 points pour la declaration des courbes',['../index.html#autotoc_md21',1,'']]],
+  ['adaptation_20de_20la_20résolution_20de_20la_20webcam_1',['1. Adaptation de la Résolution de la Webcam',['../index.html#autotoc_md17',1,'']]],
+  ['algorithme_2',['Algorithme',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md78',1,'Étapes de l&apos;Algorithme'],['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md45',1,'Fonctionnement de l&apos;Algorithme']]],
+  ['algorithme_20de_20douglas_20peucker_3',['6.3 - Algorithme de Douglas-Peucker',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache6.html#autotoc_md66',1,'']]],
+  ['algorithme_20de_20simplification_20par_20bézier_20de_20degré_202_4',['Algorithme de Simplification par Bézier de Degré 2',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md76',1,'']]],
+  ['algorithme_20de_20suivi_20du_20contour_5',['Algorithme de Suivi du Contour',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache3.html#autotoc_md47',1,'']]],
+  ['aller_20plus_20loin_6',['Pour aller plus loin...',['../index.html#autotoc_md28',1,'']]],
+  ['anastasopoulou_20rapport_7',['Evanthia Virginia Anastasopoulou Rapport',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2evanthia-virginia-anastasopoulou-rapport.html',1,'']]],
+  ['application_20d_20opencv_20dans_20un_20projet_20innovant_20de_20traitement_20d_20images_8',['Exploration et Application d&apos;OpenCV dans un Projet Innovant de Traitement d&apos;Images',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2evanthia-virginia-anastasopoulou-rapport.html#autotoc_md1',1,'']]],
+  ['application_20pratique_20des_20concepts_20théoriques_9',['Binarisation de l&apos;Image: Application Pratique des Concepts Théoriques',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2yanis-sadoun-rapport.html#autotoc_md113',1,'']]],
+  ['apply_5fgeometry_20c_10',['apply_geometry.c',['../index.html#autotoc_md24',1,'']]],
+  ['apportées_11',['Problèmes Rencontrés et Solutions Apportées',['../index.html#autotoc_md16',1,'']]],
+  ['approche_20pour_20un_20contour_20polygonal_12',['Approche pour un Contour Polygonal',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache6.html#autotoc_md65',1,'']]],
+  ['approximation_20d_20un_20segment_20par_20une_20courbe_20de_20bézier_20de_20degré_202_13',['Approximation d&apos;un segment par une courbe de Bézier de Degré 2',['..//Users/vasilisskarleas/Developer/ROB3-S6-ImagePulser_project/Imagination/tache7.md#autotoc_md74',1,'']]],
+  ['arduino_14',['Pilotage des Moteurs de Caméra : Intégration du Code C et Arduino',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2yanis-sadoun-rapport.html#autotoc_md99',1,'']]],
+  ['asynchronisme_20dans_20les_20interactions_20ui_15',['2. Gestion de l&apos;Asynchronisme dans les Interactions UI',['../index.html#autotoc_md18',1,'']]],
+  ['au_20format_20postscript_20encapsulé_20eps_16',['Tâche 4 : Sortie au Format PostScript Encapsulé (EPS)',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache4.html',1,'']]],
+  ['au_20moins_204_20points_20pour_20la_20declaration_20des_20courbes_17',['5. PostScript pourrait accepter au moins 4 points pour la declaration des courbes',['../index.html#autotoc_md21',1,'']]],
+  ['au_20postscript_18',['Introduction au PostScript',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache4.html#autotoc_md53',1,'']]],
+  ['aux_20courbes_20de_20bézier_19',['Introduction aux Courbes de Bézier',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2tache7.html#autotoc_md68',1,'']]],
+  ['avec_20les_20moteurs_20de_20la_20caméra_20',['Résolution de Problèmes Techniques avec les Moteurs de la Caméra',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2yanis-sadoun-rapport.html#autotoc_md104',1,'']]],
+  ['avec_20une_20webcam_21',['Simplification des images prises avec une webcam',['../index.html',1,'']]],
+  ['avec_20vscode_22',['Exploration du Code Source avec VSCode',['../md__2Users_2vasilisskarleas_2Developer_2ROB3-S6-ImagePulser__project_2Imagination_2user__manual.html#autotoc_md83',1,'']]]
 ];

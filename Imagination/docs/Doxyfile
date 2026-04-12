@@ -1007,7 +1007,12 @@ EXAMPLE_RECURSIVE      = NO
 # that contain images that are to be included in the documentation (see the
 # \image command).
 
-IMAGE_PATH             = ../image/tache1 ; ../image/tache7; ../image/tache3; ../image/tache5; ../image/tache6; ../image/README
+IMAGE_PATH             = ../image/tache1 \
+                         ../image/tache7 \
+                         ../image/tache3 \
+                         ../image/tache5 \
+                         ../image/tache6 \
+                         ../image/README
 
 # The INPUT_FILTER tag can be used to specify a program that doxygen should
 # invoke to filter for each input file. Doxygen will invoke the filter program
