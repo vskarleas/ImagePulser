@@ -1,5 +1,7 @@
 # Projet Imposé - Suivre une couleur
 
+Vous pouvez trouver la documentation en ligne sur [https://impose.dev.vskarleas.com](impose.dev.vskarleas.com)
+
 ## Introduction 
 
 Rédigé dans le cadre de l'unité "Projet en langage C" du semestre 6 en robotique, ce rapport présente notre méthode, les stratégies adoptées et les solutions techniques développées pour relever un défi stimulant : concevoir un algorithme qui permet à une caméra contrôlée par deux servomoteurs de détecter et suivre une couleur spécifique. L'objectif était de développer un système autonome qui, grâce à la programmation en C et au traitement d'image, maintient la couleur ciblée au centre de son champ de vision, illustrant ainsi notre capacité à créer des applications robotiques interactives.
