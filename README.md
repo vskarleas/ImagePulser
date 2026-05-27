@@ -54,6 +54,6 @@ If you want to commit: [https://help.gitkraken.com/gitkraken-client/commits/]()
 
 ### License Information
 
-ImagePulser © 2024 by Evinia Anastassopoulou, Vasilis Filippos Skarleas, and Yanis Sadoun is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+ImagePulser © 2024 by Evinia Anastassopoulou, Vasileios Filippos Skarleas, and Yanis Sadoun is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
 This work also includes content that is not the property of the authors and is subject to copyright and other licenses from their respective owners.
