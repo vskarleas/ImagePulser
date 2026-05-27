@@ -21,7 +21,7 @@ The **Projet Imagination** is a unique project, where each pair or group of thre
 The main objective of this project is to vectorize and simplify images obtained via a webcam using dynamic methods, particularly segment-based simplification. This process has several real-world applications such as:
 
 - Contour detection for image analysis
-- Geometric data compression and contour representation at different scales, useful in mapping and geographic information systems
+- Geometric data compression and contour representation at different scales, useful in mapping and geographic information systems.
 - And more...
 
 ---
