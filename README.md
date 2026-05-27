@@ -5,7 +5,7 @@ Video : [https://youtu.be/HgWcbY_vNWo](https://youtu.be/HgWcbY_vNWo)
 ## Authors
 
 * Evinia ANASTASOPOULOU
-* Vasilis SKARLEAS
+* Vasileios Filippos SKARLEAS
 * Yanis SADOUN
 
 ## Project Overview
@@ -56,4 +56,4 @@ If you want to commit: [https://help.gitkraken.com/gitkraken-client/commits/]()
 
 **ROB4-S7-IPC** © 2024 by **Evinia Anastassopoulou**, **Vasilis Filippos Skarleas**, and **Yanis Sadoun** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This work also includes content that is not the property of **Evinia Anastassopoulou**, **Vasilis Filippos Skarleas**, and **Yanis Sadoun** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of the authors and is subject to copyright and other licenses from their respective owners.
